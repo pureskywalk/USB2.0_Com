@@ -1,0 +1,8 @@
+D:\Conntek\Project\C#\USB通信及DFU\taihang_EVM改\obj\Debug\USB_Debugger.csproj.AssemblyReference.cache
+D:\Conntek\Project\C#\USB通信及DFU\taihang_EVM改\obj\Debug\USB_Debugger.csproj.SuggestedBindingRedirects.cache
+D:\Conntek\Project\C#\USB通信及DFU\taihang_EVM改\obj\Debug\taihang_EVM.taihang_EVM.resources
+D:\Conntek\Project\C#\USB通信及DFU\taihang_EVM改\obj\Debug\taihang_EVM.Properties.Resources.resources
+D:\Conntek\Project\C#\USB通信及DFU\taihang_EVM改\obj\Debug\USB_Debugger.csproj.GenerateResource.cache
+D:\Conntek\Project\C#\USB通信及DFU\taihang_EVM改\obj\Debug\USB_Debugger.csproj.CoreCompileInputs.cache
+D:\Conntek\Project\C#\USB通信及DFU\taihang_EVM改\obj\Debug\taihang_EVM.exe
+D:\Conntek\Project\C#\USB通信及DFU\taihang_EVM改\obj\Debug\taihang_EVM.pdb
